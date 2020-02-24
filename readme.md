@@ -29,3 +29,6 @@
 ## Пример работы
 ### Пользователь нажал кнопку "Send name"
 ![Пользователь нажал кнопку "Send name"](https://i.ibb.co/p2nZb1h/4.png)
+
+### Пользователь нажал кнопку "Verify code"
+![Пользователь нажал кнопку "Send name"](https://i.ibb.co/6bKjxkL/5.png)
