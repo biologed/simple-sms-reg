@@ -27,4 +27,4 @@
 ``` 
 
 ## Пример работы
-![Пользователь нажал кнопку "Send name"](https://ibb.co/Mn9pZgB)
+![Пользователь нажал кнопку "Send name"](https://i.ibb.co/p2nZb1h/4.png)
